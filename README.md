@@ -1,1 +1,1 @@
-# SAMURAI
+# samurai-terakoya
